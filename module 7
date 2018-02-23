@@ -1,0 +1,11 @@
+myObject <- 1.2345
+
+isS4(common)
+
+typeof(myObject)
+
+typeof(common)
+
+UseMethod(common)
+
+setClass(common)
