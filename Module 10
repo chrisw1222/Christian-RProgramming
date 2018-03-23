@@ -1,0 +1,10 @@
+Package: ChrisPackage
+Type: Package
+Title: This is an Example Package for Module 10
+Version: 0.1.0
+Author: Christian Williams
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Module 10 creating an R package 
+License: CCO
+Encoding: UTF-8
+LazyData: true
