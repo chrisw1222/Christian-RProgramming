@@ -1,0 +1,14 @@
+Package: FinalProject
+Type: Crypto Currency 
+Title: Detects and alerts when the best time to buy crypto currency
+Version: 0.1.0
+Author: Christian
+Maintainer: The package maintainer <christian46@mail.usf.edu>
+Description: This package uses a function to comapre the current price of crypto currency
+            uses a function to see if its less than $4000 USD if it is, it alerts you 
+            telling you to buy, if its higher it tells you not to but. 
+            There are included graphs for stats. Histogram and plot of the last 31 days of data.
+    
+License: 1
+Encoding: UTF-8
+LazyData: true
