@@ -4,12 +4,12 @@ Title: Detects and alerts when the best time to buy crypto currency
 Version: 0.1.0
 Author: Christian
 Maintainer: The package maintainer <christian46@mail.usf.edu>
- This package uses a function to comapre the current price of crypto currency
-            uses a function to see if its less than the average of the last 31 days value USD if it is, it alerts you 
+Description: This package uses a function to comapre the current price of crypto currency
+            uses a function to see if its less than the average and the min value of the last 31 days value USD if it is, it alerts you 
             telling you to buy, if its higher it tells you not to but. 
             There are included graphs for stats. Histogram and plot of the last 31 days of data.
-    
-    
+            
+            Sources : CoindeskR was used to get refreshed data from the web.
 License: 1
 Encoding: UTF-8
 LazyData: true
